@@ -1,0 +1,51 @@
+<mxfile host="65bd71144e">
+    <diagram id="oXNK_l4rSMWNxtG8zrBA" name="Page-1">
+        <mxGraphModel dx="1403" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="14" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="-240" y="380" width="460" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" style="edgeStyle=none;html=1;" parent="14" source="2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="230" y="150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="compose" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="14" vertex="1">
+                    <mxGeometry x="195" width="70" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Reducee" style="whiteSpace=wrap;html=1;" parent="14" vertex="1">
+                    <mxGeometry x="175" y="130" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="createStore" style="ellipse;whiteSpace=wrap;html=1;" parent="14" vertex="1">
+                    <mxGeometry x="380" y="110" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" parent="14" source="4" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="applay middleware" style="ellipse;whiteSpace=wrap;html=1;" parent="14" vertex="1">
+                    <mxGeometry y="110" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" parent="14" source="4" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="combined Reducer" style="ellipse;whiteSpace=wrap;html=1;" parent="14" vertex="1">
+                    <mxGeometry x="95" y="240" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;" parent="14" source="4" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;" parent="14" source="4" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="bind action reducer" style="ellipse;whiteSpace=wrap;html=1;" parent="14" vertex="1">
+                    <mxGeometry x="285" y="230" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;" parent="14" source="4" target="12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
